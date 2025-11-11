@@ -4017,6 +4017,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>devops__c.Assigne_Exp__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>devops__c.Assigne__c</field>
         <readable>true</readable>
